@@ -16,6 +16,6 @@ alert('O numeroSecreto é menor que ${chute}');
 } else {
 alert('O numeroSecreto é maior que ${chute}');
 }
-}   //tentativas = tentativas + 1;
+}tentativas = tentativas + 1;
 tentativas++;
 }
